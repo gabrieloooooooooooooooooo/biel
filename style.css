@@ -1,0 +1,237 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background-color: #01030F;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0 12px;
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+
+.cabeçalho-lista-item{
+    color: white;
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.escola-imagem{
+    width: 30%;
+}
+
+.escola{
+    background-image: linear-gradient(#2AC8BE,#3D24D8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteúdo{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
+}
+
+.escola-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+
+}
+
+.emílio-imagem{
+    width: 30%;
+}
+
+.emílio{
+    background-image: linear-gradient(#3D24D8,#2AC8BE);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.emílio-div-conteúdo{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
+}
+
+.emílio-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+
+}
+
+.estudantes{
+    background-color: #3D24D8;
+    color: white;
+}
+
+.estudantes-um-título{
+    text-align: center;
+    padding: 50px 0;
+}
+
+
+.aluno{
+    background-image: linear-gradient(#3D24D8,#3D24D8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.aluno-div-conteúdo{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
+
+}
+
+.aluno-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+}
+
+.aluno-imagem{
+    width: 25%;
+}
+
+
+.eduardo{
+    background-color: #3D24D8;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.eduardo-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+
+}
+
+.eduardo-imagem{
+    width: 25%;
+}
+
+.eduardo-ícone{
+    width: 24px;
+}
+
+
+.eduardo-div{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
+}
+
+.goulart{
+    background-color: #3D24D8;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.goulart-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+
+}
+
+.goulart-imagem{
+    width: 25%;
+}
+
+.goulart-ícone{
+    width: 24px;
+}
+
+
+.goulart-div{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
+}
+
+.oliveira{
+    background-color: #3D24D8;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.oliveira-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+
+}
+
+.oliveira-imagem{
+    width: 25%;
+}
+
+.oliveira-ícone{
+    width: 24px;
+}
+
+
+.oliveira-div{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
+}
+
+.gabriel{
+    background-color: #3D24D8;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.gabriel-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+
+}
+
+.gabriel-imagem{
+    width: 25%;
+}
+
+.gabriel-ícone{
+    width: 24px;
+}
+
+
+.gabriel-div{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px;
+}
